@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Scene2.unity
+    guid: f4a4a1b08203b6f4396d54b6662ca618
+  - enabled: 1
+    path: Assets/Scenes/PlayerMapSelectMinigame.unity
+    guid: 3ec6feed0eb199647bc9b48b28a2ed06
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 7759de288f5d4ee449a0ca5e2244944a
+  - enabled: 1
+    path: Assets/Scenes/Map 1 Player Intro.unity
+    guid: 6312e8453d8ad3c4fa7297fa2ad5e662
+  - enabled: 1
+    path: Assets/Scenes/Map 1 Win.unity
+    guid: e4a929181f1b3674b96431a4d57eff6d
+  - enabled: 1
+    path: Assets/Scenes/Map 1 Guide.unity
+    guid: 11991f6e35f7ebf40bc469557d428fe0
+  - enabled: 1
+    path: Assets/Scenes/Map 1 Guide.unity
+    guid: 11991f6e35f7ebf40bc469557d428fe0
+  - enabled: 1
+    path: Assets/Scenes/Normal Roles Menu.unity
+    guid: 78051cce1332af14f9e9db3877cb20a6
+  - enabled: 1
+    path: Assets/Scenes/Difficulty.unity
+    guid: 93a162690af31814097507d579cdbe97
+  - enabled: 1
+    path: Assets/Scenes/MiniGame Roles Menu.unity
+    guid: cca0f9c1962d8ea4586676be140385f0
+  - enabled: 1
+    path: Assets/Scenes/PlayerMapSelect.unity
+    guid: 841b27f1b3efddb46b71e8dc78087bf7
+  m_configObjects: {}
